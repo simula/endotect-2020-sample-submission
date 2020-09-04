@@ -1,5 +1,5 @@
 # The EndoTect ICPR Sample Submission
-This repository aims to provide a skeleton for preparing your submission to the [ICPR EndoTect 2020](https://github.com/simula/icpr-endotect-2020). For starters, we require that each submission is delivered in the form of a Docker image. This Docker image should create the submission file described in the challenge description. If you are new to docker, a good place to start is the [Get Started](https://docs.docker.com/get-started/) page of the official Docker documentation.
+This repository aims to provide a skeleton for preparing your submission to the [ICPR EndoTect 2020](https://github.com/simula/icpr-endotect-2020). For starters, we require that each submission to the speed task is delivered in the form of a Docker image. This Docker image should create the submission file described in the challenge description. If you are new to docker, a good place to start is the [Get Started](https://docs.docker.com/get-started/) page of the official Docker documentation.
 
 We thank you for your interest in this years EndoTect and wish you the best of luck.
 
